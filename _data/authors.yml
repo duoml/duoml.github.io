@@ -1,0 +1,17 @@
+# Site Author
+duoml:
+  name             : "duoml"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
+  location         : "Hangzhou, China"
+  # email            : "duoml@outlook.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "duoml@outlook.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.bilibili.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/duoml"
