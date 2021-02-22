@@ -248,8 +248,7 @@ defaults:
     values:
       layout: single
       read_time: true
-      comments: # true
-      share: true
+      comments: true
       related: true
   - scope:
       path: ""
